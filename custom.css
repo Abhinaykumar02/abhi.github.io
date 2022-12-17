@@ -1,0 +1,10 @@
+.hero_image{
+    background: url(heroimage.jpg) no-repeat;
+    -webkit-backgroud-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}
+.hero_wrapper{
+    
+}
