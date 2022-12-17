@@ -1,6 +1,7 @@
+</DOCTYPE html>
 # abhi.github.io
 
-</DOCTYPE html>
+
 <html>
 <body>
 <h1> my first program</h1>
